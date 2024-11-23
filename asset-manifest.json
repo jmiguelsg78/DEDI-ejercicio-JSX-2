@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DEDI-ejercicio-JSX-2/static/css/main.ff115ce9.css",
+    "main.js": "/DEDI-ejercicio-JSX-2/static/js/main.6a6af17d.js",
+    "index.html": "/DEDI-ejercicio-JSX-2/index.html",
+    "main.ff115ce9.css.map": "/DEDI-ejercicio-JSX-2/static/css/main.ff115ce9.css.map",
+    "main.6a6af17d.js.map": "/DEDI-ejercicio-JSX-2/static/js/main.6a6af17d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff115ce9.css",
+    "static/js/main.6a6af17d.js"
+  ]
+}
